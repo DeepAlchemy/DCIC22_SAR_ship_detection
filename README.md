@@ -1,4 +1,4 @@
-# DCIC 2022 海上船舶智能检测 — 深度炼丹
+# DCIC 2022 海上船舶智能检测第三名解决方案 — 深度炼丹
 
 ![](https://img.shields.io/badge/language-python3.7-blue.svg)
 ![](https://img.shields.io/badge/license-Apache_2.0-green.svg)
